@@ -40,7 +40,7 @@ c-programming/
 └── README.md
 
 
-##Intended  Mini Projects
+## Intended  Mini Projects
 
 I hope to  later create projects like:
 
@@ -57,7 +57,7 @@ I hope to  later create projects like:
 * HTTP Server
 * Command Line Utilities
 
-##I have consulted the underlisted books
+## I have consulted the underlisted books
 
 ### 1. The C Programming Language
 
@@ -78,7 +78,7 @@ Author: Zed A. Shaw
 A project-based and hands-on approach to learning C. Good for building confidence through constant practice and debugging.
 
 
-##Intended additional Books Worth Exploring
+## Intended additional Books Worth Exploring
 
 * Expert C Programming: Deep C Secrets — Peter van der Linden
 * Modern C — Jens Gustedt
